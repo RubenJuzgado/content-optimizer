@@ -9,7 +9,7 @@
         <graalvm.version>21.3.0</graalvm.version>
         <sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/../example-tsp/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
         <sonar.organization>rubenjuzgado</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <name>Mork</name>
